@@ -1,0 +1,141 @@
+
+			img {
+				width: 100%;
+			}
+			#img2{
+				width: 100%;
+			}
+			body{
+				font-family: Serif,sans-serif;
+				background-color: #004278;
+			}
+			#container {
+				width: 1000px;
+				margin: 0 auto;
+				background-color: #cccccc;
+			}
+			header {
+				background-color: #ecebf0;
+			}
+			#title{
+				text-align: center;
+				margin-top: auto;
+				margin-bottom: auto;
+			}
+			header ul {
+				width: 100%;
+				display: table;
+				text-align: center;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+				background-color: #3468f7;
+			}
+
+			header li {
+				display: inline-block;
+				float: none;
+			}
+
+			header li a {
+				display: inline-block;
+				color: white;
+				text-align: center;
+				padding: 10px 10px;
+				text-decoration: none;
+			}
+			header li a:hover {
+				background-color: #0030b5;
+			}
+			main {
+				padding-top: 0;
+				padding-bottom: 0;
+				padding-left: 15px;
+				padding-right: 15px;
+			}
+			#home-col1-row1{
+				position: relative;
+				text-align: center;
+				width: auto;
+				border: 1px solid black;
+			}
+			
+			.main{
+				color: white;
+			}
+			.top-right{
+				border: 1px solid yellow;
+				background-color: rgba(42, 153, 245, 0.4);
+				position: absolute;
+				top: 100px;
+				right: 100px;
+				width: auto;
+			}
+			.bottom-right{
+				border: 1px solid yellow;
+				background-color: rgba(42, 153, 245, 0.4);
+				position: absolute;
+				bottom: 150px;
+				right: 100px;
+				width: auto;
+			}
+			#home-col1-row2{
+				width: 400px;
+				vertical-align: top;
+				margin-top: 20px;
+				display: inline-block;
+			}
+			#home-col2-row2{
+				width: 550px;
+				margin-top: 20px;
+				display: inline-block;
+				vertical-align: bottom;
+				margin-left: 10px;
+			}
+			#home-col1-row3{
+				width: 300px;
+				margin-top: 20px;
+				display: inline-block;
+			}
+			#home-col2-row3{
+				width: 480x;
+				margin-top: 20px;
+				display: inline-block;
+	
+			}
+			#home-col2-row3 li{
+				list-style-type: none;
+			}
+			#about-col1-row1{
+				display: inline-block;
+				width: 480px;
+				
+			}
+			#about-col2-row1{
+				display: inline-block;
+				width: 480px;
+				
+			}
+			#about-col1-row2{
+				width: 900px;
+				
+				margin-top: 20px;
+			}
+			#about-col1-row3{
+				width: 900px;
+				
+				margin-top: 20px;
+			}
+			
+			footer {
+				background-color: #5993c2;
+			}
+            #quotepic{
+                border-radius: 20%;
+                width: 50px;
+                margin-left: 10px;
+            }
+            #pencils{
+                margin-top: 20px;
+            }
