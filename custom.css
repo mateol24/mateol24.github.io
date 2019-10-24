@@ -1,0 +1,51 @@
+#title{
+				text-align: center;
+				margin-top: auto;
+				margin-bottom: auto;
+                font-family: "Times New Roman", Courier, sans-serif;
+			}
+.container {
+				width: 100%;
+				margin: 0 auto;
+				background-color: white;
+			}
+h1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h3{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+header ul{
+    width: 100%;
+				display: table;
+				text-align: center;
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+				overflow: hidden;
+				background-color: #3468f7;
+}
+header li a {
+				display: inline-block;
+				color: white;
+				text-align: center;
+				padding: 10px 10px;
+				text-decoration: none;
+			}
+img{
+    margin-top: 20px;
+    width:100%;
+}
+p{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#footertext{
+    font-family: "Times New Roman", helvetice;
+    margin-left: 35px;
+    margin-top: 5px;
+    color: black;
+}
+footer {
+				background-color: #3468f7;
+			}
